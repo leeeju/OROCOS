@@ -14,7 +14,7 @@ BFL은 동적 베이지안 네트워크(Dynamic Bayesian Networks)에서 추론�
 
 ![오로코스](https://user-images.githubusercontent.com/84003327/160514693-5d4aa241-2212-4c55-9f09-34db11ec0e7f.PNG)
 
-OROCOS의 컴포넌트간 통신은 [그림 16]에 보인바와 같이 같은 프로세스내의 경우에는 프로세스 내부(in-process) 통신을 사용하고  서로 다른 프로세스 또는 다른 호스트에 존재하는 컴포넌트간의 통신은 CORBA를 사용하여 구현된다. 같은 호스트 내의 프로세스 간(inter-process) 통신의 경우 POSIX 메시지 큐를 사용하는 방식도 제공하고 있다.
+```OROCOS```의 컴포넌트간 통신은 [그림 16]에 보인바와 같이 같은 프로세스내의 경우에는 프로세스 내부(in-process) 통신을 사용하고  서로 다른 프로세스 또는 다른 호스트에 존재하는 컴포넌트간의 통신은 CORBA를 사용하여 구현된다. 같은 호스트 내의 프로세스 간(inter-process) 통신의 경우 POSIX 메시지 큐를 사용하는 방식도 제공하고 있다.
 
 ![aa](https://user-images.githubusercontent.com/84003327/160514799-1b5b80dd-333a-4c9c-82df-44b73f2554f3.PNG)
 
