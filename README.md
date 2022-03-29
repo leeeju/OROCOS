@@ -18,3 +18,5 @@ BFL은 동적 베이지안 네트워크(Dynamic Bayesian Networks)에서 추론�
 
 ![aa](https://user-images.githubusercontent.com/84003327/160514799-1b5b80dd-333a-4c9c-82df-44b73f2554f3.PNG)
 
+더욱 자세한 오코로스의 정보는 다음 링크를 참조 하자
+https://github.com/orocos
