@@ -2,7 +2,7 @@
 ## OROCOS
 ---
 
-```OROCOS(Open RObot COntrol Software)```는  2000년 12월 로봇 제어 소프트웨어 개발을 위한 오픈 소스 프로젝트로 시작되었으며 벨기에의 K.U.Leuven, 프랑스의 LAAS Toulouse, 그리고 스웨덴의 KTH Stockholm을 주된 파트너로 하여 2001년 시작되어  최근 Orocos Toolchain 2.6.0까지 발표하였다. 기구학 및 동역학 라이브러리(KDL:Kinematics and Dynamics Library), 베이지안 필터링 라이브러리(BFL:Bayesian Filtering Library)와 컴포넌트 제작 및 구동을 위한 툴체인(Orocos Toolchain)을 제공하고 있으며 로봇과 기계 제어에 특화된 컴포넌트 기반의 소프트웨어 프레임웍이다. 
+```OROCOS(Open RObot COntrol Software)``` 오로코스는  2000년 12월 로봇 제어 소프트웨어 개발을 위한 오픈 소스 프로젝트로 시작되었으며 벨기에의 K.U.Leuven, 프랑스의 LAAS Toulouse, 그리고 스웨덴의 KTH Stockholm을 주된 파트너로 하여 2001년 시작되어  최근 Orocos Toolchain 2.6.0까지 발표하였다. 기구학 및 동역학 라이브러리(KDL:Kinematics and Dynamics Library), 베이지안 필터링 라이브러리(BFL:Bayesian Filtering Library)와 컴포넌트 제작 및 구동을 위한 툴체인(Orocos Toolchain)을 제공하고 있으며 로봇과 기계 제어에 특화된 컴포넌트 기반의 소프트웨어 프레임웍이다. 
 
 툴체인은 Real-time Toolkit(RTT)와 Orocos Component Library(OCL), 이외에 컴파일을 위한 파일들을 자동 구성하고 생성하는 도구인 AutoProj, OroGen, TypeGen등을 제공한다. RTT는 C++ 기반으로 로봇 관련 응용 프로그램을 작성하기 위한 함수 및 도구로 실시간 컴포넌트를 구성하기 위한 라이브러리 형태이다. OCL은 런타임 컴포넌트 관리를 위한 컴포넌트와 제어 및 하드웨어 접근 처리를 위한 컴포넌트들을 포함하는 유용한 컴포넌트의 모음이다.
 
