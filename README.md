@@ -1,5 +1,5 @@
 
-## OROCOS
+## OROCOS (오로코스)
 ---
 
 ```OROCOS(Open RObot COntrol Software)``` 오로코스는  2000년 12월 로봇 제어 소프트웨어 개발을 위한 오픈 소스 프로젝트로 시작되었으며 벨기에의 K.U.Leuven, 프랑스의 LAAS Toulouse, 그리고 스웨덴의 KTH Stockholm을 주된 파트너로 하여 2001년 시작되어  최근 Orocos Toolchain 2.6.0까지 발표하였다. 기구학 및 동역학 라이브러리(KDL:Kinematics and Dynamics Library), 베이지안 필터링 라이브러리(BFL:Bayesian Filtering Library)와 컴포넌트 제작 및 구동을 위한 툴체인(Orocos Toolchain)을 제공하고 있으며 로봇과 기계 제어에 특화된 컴포넌트 기반의 소프트웨어 프레임웍이다. 
